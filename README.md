@@ -1,4 +1,4 @@
-# Kotlin-Android-Guide
+# Kotlin Android Guide (WIP)
 
 This repository will cover some topics that were hard for me initially during android development. I have learned many new things at my most recent internship and would like to share/document some of that here in this repository.
 
