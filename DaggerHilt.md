@@ -1,6 +1,7 @@
 # Guide to Dependency Injection
 
-We will cover how to use Google Dagger hilt. First you must add the dependencies to your lib.versions.toml:
+We will cover how to use Google Dagger hilt. 
+First you must add the dependencies to your lib.versions.toml:
 
 ```
 [versions]
