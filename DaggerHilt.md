@@ -21,7 +21,7 @@ plugins {
     alias(libs.plugins.google.dagger.hilt) apply false
 }
 ```
-and our module level gradle, do not worry about the error, it will get fixed during gradle build
+add our module level gradle, do not worry about the error, it will get fixed during gradle build
 ```
 plugins {
     kotlin("kapt")
