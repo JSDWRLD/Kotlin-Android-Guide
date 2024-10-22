@@ -7,4 +7,8 @@ Dependency injection is a crucial part of building scalable apps, when building 
 
 Dependency injection happens during compile time and after wards we can use this single instances anywhere in the app more efficiently that if we did the latter option. Please see the guide [here](https://github.com/JSDWRLD/Kotlin-Android-Guide/blob/main/DaggerHilt.md).
 
-## Room DB
+## Jetpack Compose:
+
+## Coroutines and Concurrency:
+
+## Room DB:
